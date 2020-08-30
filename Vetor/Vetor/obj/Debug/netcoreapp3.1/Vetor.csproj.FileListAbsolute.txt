@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.exe
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.deps.json
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.dll
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.pdb
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.dll
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.pdb
+C:\Users\Cézar\Desktop\CSharp\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\bin\Debug\netcoreapp3.1\MembrosEstaticosComClasse.exe
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\bin\Debug\netcoreapp3.1\MembrosEstaticosComClasse.deps.json
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\bin\Debug\netcoreapp3.1\MembrosEstaticosComClasse.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\bin\Debug\netcoreapp3.1\MembrosEstaticosComClasse.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\bin\Debug\netcoreapp3.1\MembrosEstaticosComClasse.dll
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\bin\Debug\netcoreapp3.1\MembrosEstaticosComClasse.pdb
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\obj\Debug\netcoreapp3.1\MembrosEstaticosComClasse.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\obj\Debug\netcoreapp3.1\MembrosEstaticosComClasse.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\obj\Debug\netcoreapp3.1\MembrosEstaticosComClasse.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\obj\Debug\netcoreapp3.1\MembrosEstaticosComClasse.dll
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\obj\Debug\netcoreapp3.1\MembrosEstaticosComClasse.pdb
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\obj\Debug\netcoreapp3.1\MembrosEstaticosComClasse.genruntimeconfig.cache
+C:\Users\Cézar\Desktop\CSharp\MembrosEstaticosComClasse\MembrosEstaticosComClasse\obj\Debug\netcoreapp3.1\MembrosEstaticosComClasse.csprojAssemblyReference.cache

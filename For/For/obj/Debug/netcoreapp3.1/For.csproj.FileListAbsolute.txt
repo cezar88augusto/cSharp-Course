@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\For\For\bin\Debug\netcoreapp3.1\For.exe
+C:\Users\Cézar\Desktop\CSharp\For\For\bin\Debug\netcoreapp3.1\For.deps.json
+C:\Users\Cézar\Desktop\CSharp\For\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\For\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\For\For\bin\Debug\netcoreapp3.1\For.dll
+C:\Users\Cézar\Desktop\CSharp\For\For\bin\Debug\netcoreapp3.1\For.pdb
+C:\Users\Cézar\Desktop\CSharp\For\For\obj\Debug\netcoreapp3.1\For.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\For\For\obj\Debug\netcoreapp3.1\For.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\For\For\obj\Debug\netcoreapp3.1\For.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\For\For\obj\Debug\netcoreapp3.1\For.dll
+C:\Users\Cézar\Desktop\CSharp\For\For\obj\Debug\netcoreapp3.1\For.pdb
+C:\Users\Cézar\Desktop\CSharp\For\For\obj\Debug\netcoreapp3.1\For.genruntimeconfig.cache
+C:\Users\Cézar\Desktop\CSharp\For\For\obj\Debug\netcoreapp3.1\For.csprojAssemblyReference.cache

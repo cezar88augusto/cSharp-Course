@@ -1,0 +1,12 @@
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\Cézar\Desktop\CSharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache

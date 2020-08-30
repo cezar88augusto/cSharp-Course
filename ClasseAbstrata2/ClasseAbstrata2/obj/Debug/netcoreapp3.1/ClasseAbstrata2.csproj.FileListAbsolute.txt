@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\obj\Debug\netcoreapp3.1\ClasseAbstrata2.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\obj\Debug\netcoreapp3.1\ClasseAbstrata2.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\obj\Debug\netcoreapp3.1\ClasseAbstrata2.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\obj\Debug\netcoreapp3.1\ClasseAbstrata2.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\bin\Debug\netcoreapp3.1\ClasseAbstrata2.exe
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\bin\Debug\netcoreapp3.1\ClasseAbstrata2.deps.json
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\bin\Debug\netcoreapp3.1\ClasseAbstrata2.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\bin\Debug\netcoreapp3.1\ClasseAbstrata2.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\bin\Debug\netcoreapp3.1\ClasseAbstrata2.dll
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\bin\Debug\netcoreapp3.1\ClasseAbstrata2.pdb
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\obj\Debug\netcoreapp3.1\ClasseAbstrata2.dll
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\obj\Debug\netcoreapp3.1\ClasseAbstrata2.pdb
+C:\Users\Cézar\Desktop\CSharp\ClasseAbstrata2\ClasseAbstrata2\obj\Debug\netcoreapp3.1\ClasseAbstrata2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\bin\Debug\netcoreapp3.1\Enquanto.exe
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\bin\Debug\netcoreapp3.1\Enquanto.deps.json
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\bin\Debug\netcoreapp3.1\Enquanto.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\bin\Debug\netcoreapp3.1\Enquanto.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\bin\Debug\netcoreapp3.1\Enquanto.dll
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\bin\Debug\netcoreapp3.1\Enquanto.pdb
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\obj\Debug\netcoreapp3.1\Enquanto.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\obj\Debug\netcoreapp3.1\Enquanto.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\obj\Debug\netcoreapp3.1\Enquanto.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\obj\Debug\netcoreapp3.1\Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\obj\Debug\netcoreapp3.1\Enquanto.dll
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\obj\Debug\netcoreapp3.1\Enquanto.pdb
+C:\Users\Cézar\Desktop\CSharp\Enquanto\Enquanto\obj\Debug\netcoreapp3.1\Enquanto.genruntimeconfig.cache

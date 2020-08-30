@@ -1,0 +1,12 @@
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.exe
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.deps.json
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.dll
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\OperadoresDeAtribuicao.pdb
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.dll
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.pdb
+C:\Users\Cézar\Desktop\CSharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\OperadoresDeAtribuicao.genruntimeconfig.cache

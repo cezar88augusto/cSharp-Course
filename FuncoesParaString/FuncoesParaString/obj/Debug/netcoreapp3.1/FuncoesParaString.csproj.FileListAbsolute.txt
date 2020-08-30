@@ -1,0 +1,12 @@
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp3.1\FuncoesParaString.exe
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp3.1\FuncoesParaString.deps.json
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp3.1\FuncoesParaString.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp3.1\FuncoesParaString.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp3.1\FuncoesParaString.dll
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp3.1\FuncoesParaString.pdb
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp3.1\FuncoesParaString.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp3.1\FuncoesParaString.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp3.1\FuncoesParaString.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp3.1\FuncoesParaString.dll
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp3.1\FuncoesParaString.pdb
+C:\Users\Cézar\Desktop\CSharp\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp3.1\FuncoesParaString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\bin\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.exe
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\bin\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.deps.json
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\bin\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.runtimeconfig.json
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\bin\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.runtimeconfig.dev.json
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\bin\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.dll
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\bin\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.pdb
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\obj\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.csprojAssemblyReference.cache
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\obj\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.AssemblyInfoInputs.cache
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\obj\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.AssemblyInfo.cs
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\obj\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\obj\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.dll
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\obj\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.pdb
+C:\Users\Cézar\source\repos\PrimeiroPequenoProjetoPoo\PrimeiroPequenoProjetoPoo\obj\Debug\netcoreapp3.1\PrimeiroPequenoProjetoPoo.genruntimeconfig.cache
