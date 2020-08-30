@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cézar\\Desktop\\CSharp\\AssociacaoProjeto3\\AssociacaoProjeto3\\AssociacaoProjeto3.csproj": {}
+    "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\AssociacaoProjeto3\\AssociacaoProjeto3\\AssociacaoProjeto3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cézar\\Desktop\\CSharp\\AssociacaoProjeto3\\AssociacaoProjeto3\\AssociacaoProjeto3.csproj": {
+    "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\AssociacaoProjeto3\\AssociacaoProjeto3\\AssociacaoProjeto3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cézar\\Desktop\\CSharp\\AssociacaoProjeto3\\AssociacaoProjeto3\\AssociacaoProjeto3.csproj",
+        "projectUniqueName": "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\AssociacaoProjeto3\\AssociacaoProjeto3\\AssociacaoProjeto3.csproj",
         "projectName": "AssociacaoProjeto3",
-        "projectPath": "C:\\Users\\Cézar\\Desktop\\CSharp\\AssociacaoProjeto3\\AssociacaoProjeto3\\AssociacaoProjeto3.csproj",
+        "projectPath": "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\AssociacaoProjeto3\\AssociacaoProjeto3\\AssociacaoProjeto3.csproj",
         "packagesPath": "C:\\Users\\Cézar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cézar\\Desktop\\CSharp\\AssociacaoProjeto3\\AssociacaoProjeto3\\obj\\",
+        "outputPath": "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\AssociacaoProjeto3\\AssociacaoProjeto3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cézar\\AppData\\Roaming\\NuGet\\NuGet.Config",

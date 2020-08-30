@@ -14,8 +14,9 @@ namespace Interface.Services
 
         //Esta classe depende de um serviço de ITaxSerice
 
-        //Inversão de controle por injeção de dependência.
-       //A classe Rental Service, não instância a dependencia dela (criar um objeto da classe ITaxService). Apenas recebe um objeto do tipo ITaxService e passa ele no construtor.
+        //Inversão de controle por injeção de dependência: INFORMAR O OBJETO POR MEIO DO CONSTRUTOR! 
+
+       //A classe Rental Service, não instância a dependencia dela (criar um objeto da classe ITaxService nesta classe). Apenas recebe um objeto do tipo ITaxService e passa ele no construtor.
         public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService)
         {
             PricePerHour = pricePerHour;
