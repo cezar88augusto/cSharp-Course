@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\bin\Debug\netcoreapp3.1\Exceções2.exe
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\bin\Debug\netcoreapp3.1\Exceções2.deps.json
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\bin\Debug\netcoreapp3.1\Exceções2.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\bin\Debug\netcoreapp3.1\Exceções2.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\bin\Debug\netcoreapp3.1\Exceções2.dll
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\bin\Debug\netcoreapp3.1\Exceções2.pdb
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\obj\Debug\netcoreapp3.1\Exceções2.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\obj\Debug\netcoreapp3.1\Exceções2.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\obj\Debug\netcoreapp3.1\Exceções2.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\obj\Debug\netcoreapp3.1\Exceções2.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\obj\Debug\netcoreapp3.1\Exceções2.dll
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\obj\Debug\netcoreapp3.1\Exceções2.pdb
+C:\Users\Cézar\Desktop\CSharp\Exceções2\Exceções2\obj\Debug\netcoreapp3.1\Exceções2.genruntimeconfig.cache

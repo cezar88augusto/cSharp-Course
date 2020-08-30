@@ -1,0 +1,12 @@
+C:\Users\Cézar\Desktop\CSharp\List\List\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\Cézar\Desktop\CSharp\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\Cézar\Desktop\CSharp\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\List\List\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\Cézar\Desktop\CSharp\List\List\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\Cézar\Desktop\CSharp\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\List\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\List\List\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\Cézar\Desktop\CSharp\List\List\obj\Debug\netcoreapp3.1\List.pdb
+C:\Users\Cézar\Desktop\CSharp\List\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache

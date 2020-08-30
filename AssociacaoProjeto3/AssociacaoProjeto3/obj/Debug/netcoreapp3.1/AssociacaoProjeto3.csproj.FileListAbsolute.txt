@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\bin\Debug\netcoreapp3.1\AssociacaoProjeto3.exe
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\bin\Debug\netcoreapp3.1\AssociacaoProjeto3.deps.json
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\bin\Debug\netcoreapp3.1\AssociacaoProjeto3.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\bin\Debug\netcoreapp3.1\AssociacaoProjeto3.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\bin\Debug\netcoreapp3.1\AssociacaoProjeto3.dll
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\bin\Debug\netcoreapp3.1\AssociacaoProjeto3.pdb
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\obj\Debug\netcoreapp3.1\AssociacaoProjeto3.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\obj\Debug\netcoreapp3.1\AssociacaoProjeto3.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\obj\Debug\netcoreapp3.1\AssociacaoProjeto3.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\obj\Debug\netcoreapp3.1\AssociacaoProjeto3.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\obj\Debug\netcoreapp3.1\AssociacaoProjeto3.dll
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\obj\Debug\netcoreapp3.1\AssociacaoProjeto3.pdb
+C:\Users\Cézar\Desktop\CSharp\AssociacaoProjeto3\AssociacaoProjeto3\obj\Debug\netcoreapp3.1\AssociacaoProjeto3.genruntimeconfig.cache

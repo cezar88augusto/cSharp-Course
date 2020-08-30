@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\bin\Debug\netcoreapp3.1\Trabalhando com Arquivos.exe
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\bin\Debug\netcoreapp3.1\Trabalhando com Arquivos.deps.json
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\bin\Debug\netcoreapp3.1\Trabalhando com Arquivos.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\bin\Debug\netcoreapp3.1\Trabalhando com Arquivos.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\bin\Debug\netcoreapp3.1\Trabalhando com Arquivos.dll
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\bin\Debug\netcoreapp3.1\Trabalhando com Arquivos.pdb
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\obj\Debug\netcoreapp3.1\Trabalhando com Arquivos.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\obj\Debug\netcoreapp3.1\Trabalhando com Arquivos.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\obj\Debug\netcoreapp3.1\Trabalhando com Arquivos.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\obj\Debug\netcoreapp3.1\Trabalhando com Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\obj\Debug\netcoreapp3.1\Trabalhando com Arquivos.dll
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\obj\Debug\netcoreapp3.1\Trabalhando com Arquivos.pdb
+C:\Users\Cézar\Desktop\CSharp\Trabalhando com Arquivos\Trabalhando com Arquivos\obj\Debug\netcoreapp3.1\Trabalhando com Arquivos.genruntimeconfig.cache

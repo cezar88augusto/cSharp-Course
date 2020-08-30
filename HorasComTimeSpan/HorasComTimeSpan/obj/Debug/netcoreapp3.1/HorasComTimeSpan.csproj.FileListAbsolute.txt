@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\bin\Debug\netcoreapp3.1\HorasComTimeSpan.exe
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\bin\Debug\netcoreapp3.1\HorasComTimeSpan.deps.json
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\bin\Debug\netcoreapp3.1\HorasComTimeSpan.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\bin\Debug\netcoreapp3.1\HorasComTimeSpan.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\bin\Debug\netcoreapp3.1\HorasComTimeSpan.dll
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\bin\Debug\netcoreapp3.1\HorasComTimeSpan.pdb
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\obj\Debug\netcoreapp3.1\HorasComTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\obj\Debug\netcoreapp3.1\HorasComTimeSpan.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\obj\Debug\netcoreapp3.1\HorasComTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\obj\Debug\netcoreapp3.1\HorasComTimeSpan.dll
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\obj\Debug\netcoreapp3.1\HorasComTimeSpan.pdb
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\obj\Debug\netcoreapp3.1\HorasComTimeSpan.genruntimeconfig.cache
+C:\Users\Cézar\Desktop\CSharp\HorasComTimeSpan\HorasComTimeSpan\obj\Debug\netcoreapp3.1\HorasComTimeSpan.csprojAssemblyReference.cache

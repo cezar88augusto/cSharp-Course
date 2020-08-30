@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.exe
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.deps.json
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.dll
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.pdb
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.dll
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.pdb
+C:\Users\Cézar\Desktop\CSharp\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.genruntimeconfig.cache

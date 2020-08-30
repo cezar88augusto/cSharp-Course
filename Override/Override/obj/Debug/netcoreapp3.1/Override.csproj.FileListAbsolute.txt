@@ -1,0 +1,13 @@
+C:\Users\Cézar\source\repos\Override\Override\bin\Debug\netcoreapp3.1\Override.exe
+C:\Users\Cézar\source\repos\Override\Override\bin\Debug\netcoreapp3.1\Override.deps.json
+C:\Users\Cézar\source\repos\Override\Override\bin\Debug\netcoreapp3.1\Override.runtimeconfig.json
+C:\Users\Cézar\source\repos\Override\Override\bin\Debug\netcoreapp3.1\Override.runtimeconfig.dev.json
+C:\Users\Cézar\source\repos\Override\Override\bin\Debug\netcoreapp3.1\Override.dll
+C:\Users\Cézar\source\repos\Override\Override\bin\Debug\netcoreapp3.1\Override.pdb
+C:\Users\Cézar\source\repos\Override\Override\obj\Debug\netcoreapp3.1\Override.csprojAssemblyReference.cache
+C:\Users\Cézar\source\repos\Override\Override\obj\Debug\netcoreapp3.1\Override.AssemblyInfoInputs.cache
+C:\Users\Cézar\source\repos\Override\Override\obj\Debug\netcoreapp3.1\Override.AssemblyInfo.cs
+C:\Users\Cézar\source\repos\Override\Override\obj\Debug\netcoreapp3.1\Override.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\source\repos\Override\Override\obj\Debug\netcoreapp3.1\Override.dll
+C:\Users\Cézar\source\repos\Override\Override\obj\Debug\netcoreapp3.1\Override.pdb
+C:\Users\Cézar\source\repos\Override\Override\obj\Debug\netcoreapp3.1\Override.genruntimeconfig.cache
