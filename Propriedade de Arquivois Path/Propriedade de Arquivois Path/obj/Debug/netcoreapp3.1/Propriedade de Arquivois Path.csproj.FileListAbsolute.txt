@@ -1,0 +1,12 @@
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\bin\Debug\netcoreapp3.1\Propriedade de Arquivois Path.exe
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\bin\Debug\netcoreapp3.1\Propriedade de Arquivois Path.deps.json
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\bin\Debug\netcoreapp3.1\Propriedade de Arquivois Path.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\bin\Debug\netcoreapp3.1\Propriedade de Arquivois Path.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\bin\Debug\netcoreapp3.1\Propriedade de Arquivois Path.dll
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\bin\Debug\netcoreapp3.1\Propriedade de Arquivois Path.pdb
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\obj\Debug\netcoreapp3.1\Propriedade de Arquivois Path.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\obj\Debug\netcoreapp3.1\Propriedade de Arquivois Path.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\obj\Debug\netcoreapp3.1\Propriedade de Arquivois Path.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\obj\Debug\netcoreapp3.1\Propriedade de Arquivois Path.dll
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\obj\Debug\netcoreapp3.1\Propriedade de Arquivois Path.pdb
+C:\Users\Cézar\Desktop\CSharp\Propriedade de Arquivois Path\Propriedade de Arquivois Path\obj\Debug\netcoreapp3.1\Propriedade de Arquivois Path.genruntimeconfig.cache

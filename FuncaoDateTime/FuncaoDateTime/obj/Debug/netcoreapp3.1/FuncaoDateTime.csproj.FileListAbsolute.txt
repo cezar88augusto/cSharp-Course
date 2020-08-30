@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\bin\Debug\netcoreapp3.1\FuncaoDateTime.exe
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\bin\Debug\netcoreapp3.1\FuncaoDateTime.deps.json
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\bin\Debug\netcoreapp3.1\FuncaoDateTime.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\bin\Debug\netcoreapp3.1\FuncaoDateTime.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\bin\Debug\netcoreapp3.1\FuncaoDateTime.dll
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\bin\Debug\netcoreapp3.1\FuncaoDateTime.pdb
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\obj\Debug\netcoreapp3.1\FuncaoDateTime.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\obj\Debug\netcoreapp3.1\FuncaoDateTime.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\obj\Debug\netcoreapp3.1\FuncaoDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\obj\Debug\netcoreapp3.1\FuncaoDateTime.dll
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\obj\Debug\netcoreapp3.1\FuncaoDateTime.pdb
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\obj\Debug\netcoreapp3.1\FuncaoDateTime.genruntimeconfig.cache
+C:\Users\Cézar\Desktop\CSharp\FuncaoDateTime\FuncaoDateTime\obj\Debug\netcoreapp3.1\FuncaoDateTime.csprojAssemblyReference.cache

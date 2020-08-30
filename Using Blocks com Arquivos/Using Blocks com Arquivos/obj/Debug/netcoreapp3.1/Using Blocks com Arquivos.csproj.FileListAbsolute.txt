@@ -1,0 +1,12 @@
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\bin\Debug\netcoreapp3.1\Using Blocks com Arquivos.exe
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\bin\Debug\netcoreapp3.1\Using Blocks com Arquivos.deps.json
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\bin\Debug\netcoreapp3.1\Using Blocks com Arquivos.runtimeconfig.json
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\bin\Debug\netcoreapp3.1\Using Blocks com Arquivos.runtimeconfig.dev.json
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\bin\Debug\netcoreapp3.1\Using Blocks com Arquivos.dll
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\bin\Debug\netcoreapp3.1\Using Blocks com Arquivos.pdb
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\obj\Debug\netcoreapp3.1\Using Blocks com Arquivos.AssemblyInfoInputs.cache
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\obj\Debug\netcoreapp3.1\Using Blocks com Arquivos.AssemblyInfo.cs
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\obj\Debug\netcoreapp3.1\Using Blocks com Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\obj\Debug\netcoreapp3.1\Using Blocks com Arquivos.dll
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\obj\Debug\netcoreapp3.1\Using Blocks com Arquivos.pdb
+C:\Users\Cézar\source\repos\Using Blocks com Arquivos\Using Blocks com Arquivos\obj\Debug\netcoreapp3.1\Using Blocks com Arquivos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\bin\Debug\netcoreapp3.1\VetorDeObjetos.exe
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\bin\Debug\netcoreapp3.1\VetorDeObjetos.deps.json
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\bin\Debug\netcoreapp3.1\VetorDeObjetos.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\bin\Debug\netcoreapp3.1\VetorDeObjetos.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\bin\Debug\netcoreapp3.1\VetorDeObjetos.dll
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\bin\Debug\netcoreapp3.1\VetorDeObjetos.pdb
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\obj\Debug\netcoreapp3.1\VetorDeObjetos.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\obj\Debug\netcoreapp3.1\VetorDeObjetos.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\obj\Debug\netcoreapp3.1\VetorDeObjetos.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\obj\Debug\netcoreapp3.1\VetorDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\obj\Debug\netcoreapp3.1\VetorDeObjetos.dll
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\obj\Debug\netcoreapp3.1\VetorDeObjetos.pdb
+C:\Users\Cézar\Desktop\CSharp\VetorDeObjetos\VetorDeObjetos\obj\Debug\netcoreapp3.1\VetorDeObjetos.genruntimeconfig.cache

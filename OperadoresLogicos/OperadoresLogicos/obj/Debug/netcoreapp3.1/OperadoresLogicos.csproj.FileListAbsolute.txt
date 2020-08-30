@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.exe
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.deps.json
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\Cézar\Desktop\CSharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.genruntimeconfig.cache

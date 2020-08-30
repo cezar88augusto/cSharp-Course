@@ -1,0 +1,13 @@
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\bin\Debug\netcoreapp3.1\AssociacaoProjeto2.exe
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\bin\Debug\netcoreapp3.1\AssociacaoProjeto2.deps.json
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\bin\Debug\netcoreapp3.1\AssociacaoProjeto2.runtimeconfig.json
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\bin\Debug\netcoreapp3.1\AssociacaoProjeto2.runtimeconfig.dev.json
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\bin\Debug\netcoreapp3.1\AssociacaoProjeto2.dll
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\bin\Debug\netcoreapp3.1\AssociacaoProjeto2.pdb
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\obj\Debug\netcoreapp3.1\AssociacaoProjeto2.csprojAssemblyReference.cache
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\obj\Debug\netcoreapp3.1\AssociacaoProjeto2.AssemblyInfoInputs.cache
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\obj\Debug\netcoreapp3.1\AssociacaoProjeto2.AssemblyInfo.cs
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\obj\Debug\netcoreapp3.1\AssociacaoProjeto2.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\obj\Debug\netcoreapp3.1\AssociacaoProjeto2.dll
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\obj\Debug\netcoreapp3.1\AssociacaoProjeto2.pdb
+C:\Users\Cézar\source\repos\AssociacaoProjeto2\AssociacaoProjeto2\obj\Debug\netcoreapp3.1\AssociacaoProjeto2.genruntimeconfig.cache

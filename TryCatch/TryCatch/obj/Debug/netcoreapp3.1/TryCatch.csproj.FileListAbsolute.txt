@@ -1,0 +1,13 @@
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.exe
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.deps.json
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.json
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.dev.json
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csprojAssemblyReference.cache
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfoInputs.cache
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfo.cs
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\Cézar\source\repos\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache

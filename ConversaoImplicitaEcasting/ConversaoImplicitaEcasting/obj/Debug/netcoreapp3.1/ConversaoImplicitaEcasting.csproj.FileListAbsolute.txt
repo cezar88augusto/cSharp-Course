@@ -1,0 +1,12 @@
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.exe
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.deps.json
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.dll
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.pdb
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.dll
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.pdb
+C:\Users\Cézar\Desktop\CSharp\ConversaoImplicitaEcasting\ConversaoImplicitaEcasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaEcasting.genruntimeconfig.cache

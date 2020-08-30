@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\bin\Debug\netcoreapp3.1\ContaBancáriaPoo.exe
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\bin\Debug\netcoreapp3.1\ContaBancáriaPoo.deps.json
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\bin\Debug\netcoreapp3.1\ContaBancáriaPoo.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\bin\Debug\netcoreapp3.1\ContaBancáriaPoo.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\bin\Debug\netcoreapp3.1\ContaBancáriaPoo.dll
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\bin\Debug\netcoreapp3.1\ContaBancáriaPoo.pdb
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\obj\Debug\netcoreapp3.1\ContaBancáriaPoo.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\obj\Debug\netcoreapp3.1\ContaBancáriaPoo.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\obj\Debug\netcoreapp3.1\ContaBancáriaPoo.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\obj\Debug\netcoreapp3.1\ContaBancáriaPoo.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\obj\Debug\netcoreapp3.1\ContaBancáriaPoo.dll
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\obj\Debug\netcoreapp3.1\ContaBancáriaPoo.pdb
+C:\Users\Cézar\Desktop\CSharp\ContaBancáriaPoo\ContaBancáriaPoo\obj\Debug\netcoreapp3.1\ContaBancáriaPoo.genruntimeconfig.cache

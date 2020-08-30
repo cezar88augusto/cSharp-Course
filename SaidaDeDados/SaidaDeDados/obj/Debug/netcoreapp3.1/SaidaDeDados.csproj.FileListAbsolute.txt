@@ -1,0 +1,13 @@
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.exe
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.deps.json
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.runtimeconfig.json
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.runtimeconfig.dev.json
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.dll
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.pdb
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.AssemblyInfo.cs
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.dll
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.pdb
+C:\Users\Cézar\Desktop\CSharp\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.genruntimeconfig.cache
