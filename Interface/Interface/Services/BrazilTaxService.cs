@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Interface.Services
 {
-    class BrazilTaxService : ITaxService //Não é herança, É UMA INTERFACE.
+    class BrazilTaxService : ITaxService //Não é herança, É UMA INTERFACE da classe ITaxService
     {
         public double Tax(double amount) //Mesmo nome do método da INTERFACE
         {

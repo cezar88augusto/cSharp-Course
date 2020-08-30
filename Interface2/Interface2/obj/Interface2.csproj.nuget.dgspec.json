@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\List2\\List2\\List2.csproj": {}
+    "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\Interface2\\Interface2\\Interface2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\List2\\List2\\List2.csproj": {
+    "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\Interface2\\Interface2\\Interface2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\List2\\List2\\List2.csproj",
-        "projectName": "List2",
-        "projectPath": "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\List2\\List2\\List2.csproj",
+        "projectUniqueName": "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\Interface2\\Interface2\\Interface2.csproj",
+        "projectName": "Interface2",
+        "projectPath": "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\Interface2\\Interface2\\Interface2.csproj",
         "packagesPath": "C:\\Users\\Cézar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\List2\\List2\\obj\\",
+        "outputPath": "C:\\Users\\Cézar\\Desktop\\cSharp-Course\\Interface2\\Interface2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cézar\\AppData\\Roaming\\NuGet\\NuGet.Config",
