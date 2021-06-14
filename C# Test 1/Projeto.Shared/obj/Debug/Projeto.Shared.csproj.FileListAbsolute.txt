@@ -1,0 +1,6 @@
+C:\Users\Cézar\Desktop\Projeto.Shared\Projeto.Shared\bin\Debug\Projeto.Shared.dll
+C:\Users\Cézar\Desktop\Projeto.Shared\Projeto.Shared\bin\Debug\Projeto.Shared.pdb
+C:\Users\Cézar\Desktop\Projeto.Shared\Projeto.Shared\obj\Debug\Projeto.Shared.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\Projeto.Shared\Projeto.Shared\obj\Debug\Projeto.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\Projeto.Shared\Projeto.Shared\obj\Debug\Projeto.Shared.dll
+C:\Users\Cézar\Desktop\Projeto.Shared\Projeto.Shared\obj\Debug\Projeto.Shared.pdb

@@ -1,0 +1,6 @@
+C:\Users\Cézar\Desktop\TestTrybe\TestTrybe\bin\Debug\TestTrybe.dll
+C:\Users\Cézar\Desktop\TestTrybe\TestTrybe\bin\Debug\TestTrybe.pdb
+C:\Users\Cézar\Desktop\TestTrybe\TestTrybe\obj\Debug\TestTrybe.csprojAssemblyReference.cache
+C:\Users\Cézar\Desktop\TestTrybe\TestTrybe\obj\Debug\TestTrybe.csproj.CoreCompileInputs.cache
+C:\Users\Cézar\Desktop\TestTrybe\TestTrybe\obj\Debug\TestTrybe.dll
+C:\Users\Cézar\Desktop\TestTrybe\TestTrybe\obj\Debug\TestTrybe.pdb
